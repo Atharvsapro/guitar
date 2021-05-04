@@ -30,4 +30,10 @@ li {
 .links:hover{
     background-color:black;
     color: red;
+    
 }
+html {
+    scroll-behavior: smooth;
+}
+
+
